@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/projetoConversorDeMoedas.iml" filepath="$PROJECT_DIR$/projetoConversorDeMoedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency.iml" filepath="$PROJECT_DIR$/Currency.iml" />
     </modules>
   </component>
 </project>
